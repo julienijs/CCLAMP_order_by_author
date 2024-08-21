@@ -1,1 +1,1 @@
-# CCLAMP_order_by_author
+order CCLAMP files by author
